@@ -1,2 +1,2 @@
 # MenuCafe
-I design a program that looklike cafe mangment system.
+I created a café management program with intricate details for a seamless and visually appealing user experience

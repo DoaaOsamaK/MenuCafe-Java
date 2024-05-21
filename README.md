@@ -28,15 +28,7 @@ In my university, during my second year in the data structure course, our profes
 
 
 ## 🤝 Contributing
-Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
-
-- Fork the repository
-- Create your feature branch (`git checkout -b feature/YourFeature`)
-- Commit your changes (`git commit -am 'Add some feature'`)
-- Push to the branch (`git push origin feature/YourFeature`)
-- Create a new Pull Request
+Contributions are welcome!
 
 ## 📧 Contact
 For any questions or feedback, feel free to contact [doaaosamakhalaf@gmail.com](mailto:doaaosamakhalaf@gmail.com).
-
-Visit my LinkedIn Account to see the earliest progresses 👉🏻 [D U A A O](https://www.linkedin.com/in/dodo88/)

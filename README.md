@@ -3,7 +3,7 @@
 ## 📑 Project Overview
 In my university, during my second year in the data structure course, our professor assigned us a project. The challenge was to implement a project using a specific data structure. It seemed daunting at first, but after much effort and perseverance, I finally succeeded! This project turned out to be truly amazing in every aspect. I felt exhilarated when I printed the first bill from my system! Explore all its components; I hope you have an exciting experience discovering them!
 
-### You can see all about this project in pdf files!
+### You can see all about this project in PDF files!
 
 ![screen jpg](https://github.com/DoaaOsamaK/MenuCafe-Java/assets/147305995/c24d2284-52a7-4742-aab3-28bbe6237eb3)
 

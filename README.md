@@ -1,4 +1,4 @@
-# ☕ Augalassia-CofeShop Management
+# ☕ Augalassia-CofeShop Management <h6>💯 It's advisable to read PDF documents</h6>
 
 ## 📑 Project Overview
 In my university, during my second year in the data structure course, our professor assigned us a project. The challenge was to implement a project using a specific data structure. It seemed daunting at first, but after much effort and perseverance, I finally succeeded! This project turned out to be truly amazing in every aspect. I felt exhilarated when I printed the first bill from my system! Explore all its components; I hope you have an exciting experience discovering them!
